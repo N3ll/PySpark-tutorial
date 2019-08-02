@@ -14,7 +14,7 @@ The notebook includes:
 
 ## Dataset
 
-The datasets used (**people.json**,**appl_stock.csv**,**sales_info.csv** and **ContainsNull.csv**) could bbe downloaded form the repository.
+The datasets used (**people.json**,**appl_stock.csv**,**sales_info.csv** and **ContainsNull.csv**) could be downloaded form the repository.
 
 ## Python version
 
